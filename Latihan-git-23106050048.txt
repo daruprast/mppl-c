@@ -2,3 +2,29 @@ MPPL C
 
 Nama : Ihwanikha Fazli Pratama
 NIM : 23106050048
+
+Assesmen
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+Kelebihan metode agile :
+- Fleksibel terhadap perubahan kebutuhan
+- Meningkatkan kolaborasi tim
+- Kuallitas produk yang dihasilkan lebih berkualitas karena perbaikan dilakukan bertahap dan terus menerus
+- Kepuasan client tinggi karena terlibat langsung dalam pembuatan produk
+
+2. Apa tugas seorang scrum master dalam framework scrum?
+Seorang scrum master bertugas untuk memastikan bahwa tim memahami dan menerapkan prinsip serta praktik scrum dengan benar.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+Work In Progress (WIP) dalam kanban adalah sebuah istilah untuk tugas yang sedang dikerjakan dalam satu kurun waktu tertentu di setiap tahapan alur kerja.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+- Local Version Control
+Dalam version control ini, file hanya disimpan secara lokal di komputer
+-Centralized Version Control
+Dalam Centralized version control, seluruh perubahan dan versi kode disimpan menggunakan server pusat. 
+Programmer harus mengakses ke server pusat sehingga server sedang down maka akses ke kode akan terhenti.
+Contoh : SVN dan CSV
+-Distributed Version Control 
+Dalam version control ini, programmer dapat memiliki repositeri secara lengkap termasuk seluruh riwayat perubahan. 
+Sehingga programmer tidak bergantung dengan server pusat.
+Contoh : Git dan Mercurial
