@@ -2,3 +2,24 @@ MPPL C
 
 Nama    : Diva Ahmad Pradana
 NIM     : 23106050076
+
+
+1.  Metode Agile unggul karena fleksibilitasnya yang tinggi terhadap perubahan kebutuhan,. Agile menekankan kolaborasi 
+    erat dengan klien untuk produk yang sesuai, serta memungkinkan penyampaian fungsionalitas lebih cepat melalui siklus iteratif. 
+    Ini juga memfasilitasi deteksi dini masalah, berpotensi meningkatkan kualitas, produktivitas, dan fokus pada hasil berkelanjutan.
+
+2.  Seorang Scrum Master berperan krusial sebagai fasilitator dan pelayan bagi tim. Tugas utamanya adalah memastikan tim memahami dan menerapkan Scrum secara efektif, 
+    serta bertanggung jawab menghilangkan segala hambatan yang mengganggu kemajuan tim.
+
+3.  WIP (Work In Progress) dalam Kanban adalah batasan jumlah item pekerjaan yang aktif dikerjakan bersamaan per tahapan alur kerja. 
+    Tujuannya untuk mencegah penumpukan pekerjaan, mengoptimalkan aliran kerja, meningkatkan fokus tim, dan membantu mengidentifikasi kemacetan 
+    dalam proses dengan mendorong penyelesaian tugas sebelum memulai yang baru. 
+
+4.  -Local Version Control
+        dilakukan secara lokal, tidak bisa berkolaborasi dan menyimpan dalam bentuk copy atau patch
+
+    -Centralized Version Control
+        disimpan dalam server ,pengguna terhubung dengan server untuk melihat file
+
+    -Distributed Version Control
+        Pengguna memiliki salinan lengkap repository, kalau central biasanya autocommit, tetapi kalau distributed itu tidak        
