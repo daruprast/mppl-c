@@ -1,0 +1,15 @@
+1.  Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya?
+    -Lebih Fleksibel
+    -Menjunjung tinggi kolaborasi anggota tim
+    -Produk dapat tergolong lebih berkualitas serta kepuasan pelanggan dapat lebih tinggi
+
+2.	Apa tugas seorang scrum master dalam framework scrum
+    scrum master bertugas untuk memfasilitasi tim dalam menjalankan scrum atau sprint serta menghilangkan hambatan dalam proses sprint atau waktu pengembangan
+
+3.	Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+    WIP adalah jumlah pekerjaan yang sedang dikerjakan dalam kurun waktu tertentu. WIP dapat dijadikan batasan untuk kanban yang bertujuan unutk mengatur alur kerja dan menghindari terjadinya penumpukan pekerjaan dalam suatu tahap
+
+4.	Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+    -Local Version Control System (LVCS)    -> semua versi file disimpan secara lokal disatu komputer
+    -Centralized Version Control System     -> Semua Versi file disimpan didalam server pusat dimana pengguna harus terhubung ke server dan melakukan commit dan update, namun ketika server terganggu maka proyek bisa hilang atau rusak
+    -Distributed Version Control System     -> Setiap pengguna dapat memiliki repositori secara lengkap serta dapat memiliki histori versi, ketika melakukan pull harus terkoneksi oleh internet contoh nya adalah Git.
