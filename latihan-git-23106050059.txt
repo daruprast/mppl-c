@@ -1,4 +1,28 @@
 MPPL C
-
 Nama    : Radinka Rafi'ie Achmad Pradipta
 NIM     : 23106050059
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya
+Agile memiliki pendekatan software yang menekankan terhadap iteratif, fleksibelitas, dan kolaborasi. agile 
+melakukan pemgembangan iteratif dalam siklus pendek. Dalam pengerjaannya memprioritaskan individu dan interaksi 
+dengan stakeholder yang menyebabkan perubahan dapat terjadi pada tengah jalan (tidak kaku) sehingga sangat 
+fleksibel dalam sebuah perubahan rencana.
+
+2. Apa tugas scrum master dalam framework scrum
+- memimpin dan memfasilitasi sprint planning, daily standup, sprint review, sprint retrospective
+- menghilangkan hambatan tim
+- mengarahkan tim untuk mengikuti prinsip dan aturan scrum
+- menjaga fokus tim pada target sprint
+
+3. Apa yang dimaksud dengan WIP (Work in Progres) didalam Kanban
+WIP adalah batasan jumlah pekerjaan yang boleh dikerjakan dalam suatu waktu secara bersamaan
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak
+- local version control: menyimpan riwayat perubahan pada penyimpanan lokal komputer (misal RCS) kelebihannya 
+ada pada sifatnya yang sederhana namun disisi lain tidak dapat melakukan kolaborasi dan rawan kehilangan data
+- centralized version control: menyimpan semua versi file pada server pusat (misal SVN, CVS, Perforce). Developer
+mengambil file dari server-mengedit-kirim kembali keserver. kelebihannya ada pada kontrol tepusat dan kemudahan 
+kontrol oleh admin. kekurangannya ada pada ketergantungan pada koneksi internet
+- distributed version control: setiap developer memiliki salinan lengkap dari repository (misal git). Developer
+dapat bekerja secara offline dan melakukan sinkronisasi antar repositori. kelebihannya ada pada fleksibelitasnya 
+namun penggunaannya perlu memiliki pengetahuan yang lebih tinggi
