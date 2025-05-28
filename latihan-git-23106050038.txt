@@ -1,0 +1,21 @@
+MPPL C
+
+Nama : Maulana Zakki Ibrahim Fajarianto
+NIM : 23106050038
+
+1. Kelebihan Metode agile bila dibandingkan dengan metode pengembangan perangkat lunak lainnya adalah
+    - Fleksibilitas dan adaptasi terhadap perubahan kebutuhan pelanggan lebih cepat, karena agile bersifat iteratif
+    - Kolaborasi tim yang lebih kuat sehingga meningkatkan efisiensi kerja dan kualitas tim
+    - Pengurangan resiko yang tidak diinginkan secara Preventif, karena sifat iteratif ini, agile dapat mendeteksi resiko di awal
+
+2. Tugas scrum master dalam framework scrum
+    - Menjadi pemimpin tim yang baik karena scrum master adalah yang paling paham metode scrum
+    - Membantu dan memfasilitasi tim pengembang dengan mengadakan pertemuan rutin setiap hari untuk membahas perkembangan terbaru
+    - Mengedukasi serta memandu tim pengembang demi menghilangkan hambatan tim
+
+3. WIP (work in progress) dalam kanban adalah pembatasan jumlah tugas di tiap kolom agar tim fokus menyelesaikan pekerjaan sebelum mengambil yang baru
+
+4. Beberapa version control system yang digunakan dalam pengembangan perangkat lunak di antaranya adalah:
+    - Git, digunakan dalam banyak pengembangan perangkat lunak karena di nilai simple dan efisien. Git menggunakan Distributed Version Control System, yaitu control system dengan banyak repositori
+    - Subversion (SVN), digunakan dalam organisasi atau perusahaan karena SVN menggunakan centralized version control System, yaitu version control dengan satu repositori global
+    - Mercurial, digunakan dalam proyek kecil ataupun besar dan digunakan oleh perusahaan seperti facebook dan mozilla. Mercurial mirip seperti Git, namun dengan interface yang lebih simple.
