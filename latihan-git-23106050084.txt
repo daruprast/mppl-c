@@ -2,3 +2,22 @@ MPPL C
 
 Nama : Rozin Gunagraha
 NIM  : 23106050084
+
+Tugas
+1. Kelebihan metode agile dibandingkan dengan metode lainnya:
+    a. Fleksibel dan mampu beradaptasi dengan perubahan, dengan metode agile tim dapat menyesuaikan prioritas tugas yang harus diselesaikan terlebih dahulu atau tambahan serta perubahan fitur berdasarkan feedback yang diberikan dari client. Pada metode tradisional seperti waterfall perubahan seperti penambahan fitur ditengah-tengah proses pengembangan sangat sulit untuk dilakukan.
+    b. Kolaborasi dan Komunikasi, metode agile menekankan pada komunikasi antar berbagai pihak seperti tim developer, stakeholder atau client. Dengan adanya komunikasi tersebut dapat meminimalisir kesalahpahaman dari berbagai pihak. Selain itu, jika dirasa fitur yang dibuat kurang sesuai, maka client dapat menyampaikan feedbback dengan cepat kepada tim developer.
+    c. Pengiriman produk lebih cepat, metode agile memungkinkan untuk melakukan pengiriman bagian fungsional software secara berkala, Tidak seperti metode waterfall yang harus menunggu software selesai sepenuhnya baru mengirimnya. Hal tersebut dapat membuat tim developer mendapatkan feedback dari pengguna dengan cepat.
+    d. Kualitas produk yang meningkat, adanya pengujian pada metode agile untuk setiap iterasi atau sprint dapat membantu tim developer untuk menemukan kesalahan (bug) lebih awal dan memastikan bahwa software yang dikembangkan siap untuk dipakai dan memiliki kualitas yang baik.
+
+2. Scrum master memiliki tanggung jawab untuk memastikan tim scrum memahami, mengadopsi, dan menjalankan prinsip serta praktik scrum secara efektif. Beberapa tugas yang sering dilakukan oleh scrum master, antara lain:
+    a. Memfasilitasi scrum harian sesuai dengan kebutuhan, dan memastikan semua scrum berjalan sesuai tujuan dan tetap pada waktu yang ditentukan.
+    b. Memberikan pelatihan dan bimbingan kepada tim agar dapat menjalankan setiap tanggung jawabnya dengan baik.
+    c. Membantu mengidentifikasi dan menghilangkan hambatan yang dapat mengganggu produktivitas tim.
+    d. Memfasilitasi komunikasi, pembuatan keputusan, dan resolusi konflik bila diperlukan.
+
+3. WIP (work in Progress) yang jika diartikan adalah pekerjaan yang sedang dikerjakan menunjukkan jumlah tugas yang sedang dikerjakan oleh tim pada waktu tertentu. Di dalam papan kanban WIP biasanya merupakan kartu yang sudah dipindah dari kolom todo atau backlog tetapi belum mencapai done. Dalam kanban terdapat batasan WIP yang merupakan batasan jumlah maksimal item pekerjaan (kartu) yang boleh berada pada satu tahap (kolom) pada papan kanban secara bersamaan. WIP diperlukan untuk mencegah terjadinya kelebihan beban, dan juga untuk meningkatkan produktivitas tim.
+
+4. Version control system yang digunakan dalam pengembangan perangkat lunak ada 2 yaitu,
+    a. Centralized Version Control, menggunakan satu server pusat untuk menyimpan seluruh riwayat perubahan dari semua file proyek. Tim developer akan mengambil salinan proyek dari server pusat terlebih dahulu sebelum dikerjakan, dan meyimpan perubahan kembali ke server pusat. Contohnya Subversion
+    b. Distributed Version Control, setiap developer memiliki salinan repositori proyek yang sudah termasuk riwayat perubahan di komputer lokal masing-masing. Perubahan bisa dilakukan oleh developer secara lokal dan dapat disinkronkan perubahannya ke repositori utama yang telah disepakati. Contohnya Git, Mercurial
