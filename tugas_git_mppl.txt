@@ -1,0 +1,15 @@
+1.Metode Agile memiliki kelebihan dibanding metode pengembangan perangkat lunak tradisional seperti Waterfall karena lebih fleksibel dan adaptif terhadap perubahan. 
+Agile memungkinkan pengembangan secara iteratif dan inkremental, sehingga tim dapat merespons kebutuhan pengguna atau perubahan pasar dengan cepat. 
+Kolaborasi antara pengembang dan pengguna juga lebih intensif, yang menghasilkan perangkat lunak yang lebih sesuai dengan kebutuhan riil.
+
+2.Seorang Scrum Master dalam framework Scrum bertugas memastikan proses Scrum dijalankan dengan benar. 
+Ia berperan sebagai fasilitator bagi tim Scrum, menghilangkan hambatan yang mengganggu kerja tim, melindungi tim dari gangguan eksternal, serta membantu tim untuk terus meningkatkan efektivitas dan produktivitas melalui praktik Scrum yang benar.
+
+3.WIP (Work In Progress) dalam Kanban merujuk pada jumlah pekerjaan yang sedang dikerjakan pada satu waktu tertentu. 
+Konsep ini penting untuk menjaga alur kerja tetap lancar dan menghindari penumpukan tugas yang dapat memperlambat proses. 
+Dengan membatasi WIP, tim dapat fokus menyelesaikan pekerjaan sebelum mengambil tugas baru, yang meningkatkan efisiensi dan kualitas hasil kerja.
+
+4.Version Control System (VCS) adalah sistem yang digunakan untuk mencatat dan mengelola perubahan terhadap kode sumber perangkat lunak. 
+Terdapat dua jenis utama VCS: centralized dan distributed. 
+VCS terpusat seperti SVN menyimpan semua versi kode di satu server pusat, sedangkan VCS terdistribusi seperti Git menyimpan salinan penuh dari seluruh repository di setiap komputer pengembang, memungkinkan pengelolaan versi secara fleksibel dan kolaboratif bahkan tanpa koneksi internet. 
+Git saat ini merupakan VCS yang paling populer digunakan dalam pengembangan perangkat lunak modern.
