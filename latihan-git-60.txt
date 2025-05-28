@@ -2,3 +2,8 @@ MMPL C
 
 Nama    : Herdin Thorik Nurmaputra
 NIM     : 23106050060
+
+1. Metode Agile cenderung lebih fleksibel terhadap perubahan, mendorong kolaborasi tim, dan memungkinkan adanya feedback secara cepat
+2. Memastikan bahwa lingkungan kerja tim kondusif untuk menyelesaikan proyek dengna sukses. Seorang Scrum Master juga bertugas untuk memfasilitasi, dan mengajarkan praktik-praktik scrum kepada orang yang terlibat dalam proyek dan menghilangkan hambatan dalam tim
+3. Work in Progress adaalah istilah dalaam Kanban yang berguna sebagai Batasan tugas yang dapat dikerjakan untuk menghindari adanya multitasking yang berlebihan
+4. VCS Centralized adalah jenis VCS dimana semua versi disimpan dalam satu server besar, VCS Distributed adalah jenis VCS dimana pengguna memiliki tiruan local secara lengkap pada suatu proyek
