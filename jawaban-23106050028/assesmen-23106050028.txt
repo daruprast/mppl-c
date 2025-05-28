@@ -1,0 +1,22 @@
+Nama : Akmal Goldi B
+Nim : 23106050028
+
+1. **Kelebihan metode Agile:**
+   - Iteratif dan adaptif: cepat menyesuaikan dengan perubahan.
+   - Kolaboratif: komunikasi intens antara tim dan stakeholder.
+   - Lebih cepat menghasilkan produk fungsional.
+   - Meminimalkan risiko karena feedback terus-menerus.
+
+2. **Tugas Scrum Master:**
+   - Memfasilitasi proses scrum.
+   - Menghilangkan hambatan tim.
+   - Melatih tim agar memahami Scrum.
+   - Menjaga agar tim tetap fokus dan tidak terganggu pihak luar.
+
+3. **WIP (Work in Progress) dalam Kanban:**
+   - Merupakan batas jumlah tugas yang sedang dikerjakan.
+   - Tujuannya untuk menghindari multitasking berlebihan dan menjaga alur kerja tetap lancar.
+
+4. **Jenis Version Control System (VCS):**
+   - **Centralized VCS (CVCS):** seperti SVN, CVS. Semua histori versi disimpan di satu server pusat.
+   - **Distributed VCS (DVCS):** seperti Git. Setiap developer memiliki salinan penuh dari seluruh repositori. Lebih fleksibel dan aman.
