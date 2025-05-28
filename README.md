@@ -1,2 +1,0 @@
-MPPL C
-#anggraini 23106050010
