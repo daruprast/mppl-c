@@ -1,0 +1,59 @@
+mppl c
+Anggraini wijayanti
+23106050010
+
+1. Kelebihan Metode Agile dibandingkan Metode Pengembangan Perangkat Lunak Lainnya
+Fleksibilitas dan Adaptasi Cepat: Agile memungkinkan perubahan kebutuhan selama pengembangan tanpa mengganggu proses secara besar-besaran.
+
+Iterasi dan Incremental Delivery: Produk dikembangkan dalam iterasi pendek sehingga bisa mendapatkan feedback lebih cepat dan meningkatkan kualitas.
+
+Kolaborasi yang Baik: Agile mendorong komunikasi intensif antara tim pengembang dan pemangku kepentingan.
+
+Mengurangi Risiko: Karena pengujian dilakukan secara berkala, kesalahan dan masalah dapat ditemukan dan diperbaiki lebih awal.
+
+Fokus pada Nilai Bisnis: Prioritas diberikan pada fitur-fitur yang memberikan nilai terbesar bagi pengguna akhir.
+
+Peningkatan Transparansi: Melalui daily stand-up dan review, semua anggota tim memiliki gambaran jelas tentang progress proyek.
+
+2. Tugas Seorang Scrum Master dalam Framework Scrum
+Memfasilitasi Proses Scrum: Memastikan aturan dan prinsip Scrum dijalankan dengan benar.
+
+Menghilangkan Hambatan (Impediments): Membantu tim mengatasi kendala yang menghambat pekerjaan mereka.
+
+Membantu Tim dan Product Owner: Memastikan tim bekerja secara efektif dan membantu product owner dalam mengelola backlog.
+
+Melindungi Tim dari Gangguan: Menjaga tim agar fokus pada sprint goal tanpa terganggu hal-hal eksternal.
+
+Memfasilitasi Pertemuan Scrum: Mengatur dan memimpin daily stand-up, sprint planning, sprint review, dan retrospektif.
+
+3. Pengertian WIP (Work In Progress) di dalam Kanban
+Work In Progress (WIP) adalah jumlah pekerjaan atau tugas yang sedang dikerjakan pada suatu waktu tertentu dalam proses kerja.
+
+WIP membatasi jumlah pekerjaan yang sedang berjalan agar tim tidak terlalu banyak multitasking dan dapat fokus menyelesaikan tugas.
+
+Pembatasan WIP membantu meningkatkan efisiensi, mengurangi waktu tunggu, dan mempercepat penyelesaian tugas secara keseluruhan.
+
+4. Jenis Version Control System (VCS) dalam Pengembangan Perangkat Lunak
+Local Version Control System:
+
+Mengelola versi file di komputer lokal saja.
+
+Contoh: RCS (Revision Control System).
+
+Cocok untuk proyek kecil dan penggunaan individu.
+
+Centralized Version Control System (CVCS):
+
+Menggunakan server pusat yang menyimpan semua versi file.
+
+Contoh: Subversion (SVN), CVS.
+
+Memudahkan kolaborasi karena semua versi ada di server pusat, tapi bergantung pada koneksi server.
+
+Distributed Version Control System (DVCS):
+
+Setiap pengembang memiliki salinan penuh dari seluruh repository di lokalnya.
+
+Contoh: Git, Mercurial.
+
+Lebih fleksibel dan memungkinkan pengembangan offline, serta mendukung kolaborasi yang lebih baik dan branch management yang canggih.
