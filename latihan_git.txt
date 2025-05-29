@@ -5,6 +5,26 @@ nim  : 23106050004
 
 soal
 1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+jawab:
+a. Fleksibilitas tinggi: Agile memungkinkan perubahan kebutuhan bahkan di tahap akhir pengembangan.
+b. Kolaborasi yang erat: Agile mendorong komunikasi yang intens antara tim pengembang dan pelanggan.
+c.Pengiriman lebih cepat: Produk dikembangkan dalam iterasi pendek, sehingga fitur bisa dirilis lebih cepat.
+d. Kualitas lebih baik: Pengujian dilakukan secara terus-menerus dalam setiap iterasi.
+e.Fokus pada pengguna: Feedback dari pengguna diintegrasikan langsung ke dalam proses pengembangan.
 2. Apa tugas seorang scrum master dalam framework scrum
+jawab:
+a. Memfasilitasi proses Scrum dan memastikan tim memahami serta menerapkan praktik Scrum dengan benar.
+b. Menghilangkan hambatan (impediments) yang mengganggu produktivitas tim.
+c. Membantu tim untuk tetap fokus pada tujuan Sprint.
+d. Melindungi tim dari gangguan eksternal.
+e. Menjadi penghubung antara Product Owner dan tim pengembang.
 3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+jawab:
+a. WIP adalah jumlah pekerjaan yang sedang dikerjakan pada satu waktu.
+b. Digunakan untuk membatasi beban kerja agar tidak melebihi kapasitas tim.
+c. Membantu menjaga efisiensi dan kelancaran alur kerja.
 4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+jawab:
+Centralized Version Control System (CVCS): Semua versi disimpan di server pusat. Contoh: Subversion (SVN), CVS. Kelebihannya adalah kontrol pusat, namun jika server pusat down, semua pekerjaan terganggu.
+
+Distributed Version Control System (DVCS): Setiap pengembang memiliki salinan lengkap dari seluruh repository. Contoh: Git, Mercurial. Lebih fleksibel dan bisa bekerja secara offline. Git adalah DVCS yang paling populer saat ini karena kecepatan, fleksibilitas, dan dukungan komunitas yang luas.
