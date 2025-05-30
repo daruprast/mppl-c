@@ -1,0 +1,25 @@
+1.Kelebihan Metode Agile dibanding Metode Lain:
+    - Fleksibel: Mudah beradaptasi dengan perubahan kebutuhan.
+    - Cepat Delivery: Fitur dapat dirilis lebih cepat dan bertahap.
+    - Kolaboratif: Komunikasi intens antara tim dan klien.
+    - Kualitas Tinggi: Pengujian dilakukan terus-menerus.
+
+2.Tugas Scrum Master dalam Framework Scrum:
+    - Memfasilitasi Scrum Event (Sprint, Daily, Review, Retrospective).
+    - Menghilangkan hambatan tim (impediment remover).
+    - Melatih tim dalam praktik Scrum.
+    - Menjaga proses tetap sesuai prinsip Scrum.
+
+3.Apa itu WIP (Work In Progress) di Kanban:
+    WIP adalah jumlah pekerjaan yang sedang aktif dikerjakan pada suatu waktu.
+    Fungsinya untuk membatasi beban kerja agar lebih fokus dan efisien.
+
+4.Jenis Version Control System (VCS):
+    Centralized VCS (CVCS):
+    - Semua data tersimpan di server pusat.
+    - Contoh: Subversion (SVN).
+
+    Distributed VCS (DVCS):
+    - Setiap developer punya salinan penuh repository.
+    - Contoh: Git.
+    - Kelebihan Git: Cepat, fleksibel, mendukung kerja tim, dan populer.
