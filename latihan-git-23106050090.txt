@@ -2,3 +2,36 @@ MPPL C
 
 Nama	: Althaf Farras Ulayya Fauzi
 NIM 	: 23106050090
+
+
+Tugas #1
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+   --> a. Agile memiliki karakteristik yaitu bisa digunnakan pada proyek yang memiliki kebutuhan yang belum menentu, artinya Agile bisa lebih fleksibel terhadap perubahan yang ada bahkan ditengah proses pengembangan sekalipun
+       b. Agile mendorong komunikasi langsung dan berkelanjutan antara tim pengembang dan pelanggan, sehingga hasil akhir lebih sesuai dengan kebutuhan pengguna.
+       c. pengembangan pada Agile bersifat iteratif dan inkremental, artinya Produk dikembangkan dalam iterasi-iterasi pendek (biasanya 1–4 minggu), sehingga bisa diuji dan diperbaiki secara bertahap, menghasilkan perangkat lunak yang lebih stabil dan sesuai harapan.
+
+
+2. Apa tugas seorang scrum master dalam framework scrum
+   --> a. Memastikan Scrum dijalankan dengan benar, artinya scrum master berusaha menjaga agar tim tetap mengikuti kerangka kerja Scrum secara konsisten
+       b. Membantu tim Scrum menjadi efektif seperti memfasilitasi Scrum Events (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective) serta membantu tim berkembang menjadi tim yang self-organizing dan cross-functional
+
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+   --> WIP (Work In Progress) dalam kanban artinya adalah jumlah pekerjaan yang sedang dikerjakan pada suatu waktu tertentu atau tugas-tugas yang sudah dimulai tetapi belum selesai. Fungsi dari WIP adalah untuk mengontrol dan mengoptimalkan alur kerja, agar tim  
+	tidak kelebihan beban dan dapat menyelesaikan tugas dengan lebih cepat dan efisien.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+   --> Dalam pengembangan perangkat lunak, ada yang namanya VCS atau version control system, VCS adalah sistem yang digunakan untuk mencatat perubahan terhadap kode/program dari waktu ke waktu, sehingga pengembang dapat mengelola revisi, berkolaborasi, dan  
+	mengembalikan versi sebelumnya jika terjadi kesalahan. Ada beberapa jenis VCS yaitu :
+	a. Local Version Control System (LVCS)
+	   -> LVCS adalah VCS secara lokal yang menyimpan versi file secara lokal di komputer pengguna dengan menggunakan database sederhana untuk melacak perubahan file. Kelemahan dari LVCS ini adalah tidak mendukung kolaborasi tim karena semua data ada di satu  
+		komputer. Contoh dari LVCS yaitu RCS atau Revision Control System
+
+	b. Centralized Version Control System (CVCS)
+	   -> CVCS adalah version control yang semua versi kodenya disimpan di satu server pusat sehingga pengembang bekerja dengan salinan lokal dan sinkronisasi (commit/update) ke server pusat. Kelemahan dari CVCS adalah Jika server pusat down atau rusak, semua orang 
+		tidak bisa bekerja atau kehilangan riwayat. Contoh dari CVCS yaitu Subversion (SVN), Perforce, CVS (Concurrent Versions System)
+
+	c. Distributed Version Control System (DVCS)
+	   -> DVCS mirip seperti CVCS hanya saja bedanya adalah terdapat 2 versi kode/repositori yakni di Lokal dan Server sehingga setiap pengembang memiliki salinan lengkap dari seluruh riwayat proyek dan sinkronisasi dilakukan dengan push/pull ke repositori pusat 
+		atau ke sesama pengembang. Contoh dari DVCS yakni Git, Mercurial, Bazaar.
