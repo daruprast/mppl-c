@@ -1,0 +1,14 @@
+MPPL C
+
+Nama    : Syafiq Rustiawanto
+NIM     : 23106050094
+
+Tugas #menjawabsoal
+
+1. Metode Agile memiliki beberapa kelebihan dibandingkan metode pengembangan perangkat lunak lainnya, seperti Waterfall. Agile bersifat adaptif terhadap perubahan, memungkinkan tim untuk merespons kebutuhan baru dengan cepat. Agile juga menekankan kolaborasi antara tim pengembang dan pengguna, serta berfokus pada pengiriman perangkat lunak fungsional dalam iterasi pendek. Dengan pendekatan ini, umpan balik dari pengguna dapat segera diimplementasikan, yang pada akhirnya meningkatkan kualitas dan kepuasan pengguna.
+
+2. Dalam framework Scrum, Scrum Master bertugas sebagai fasilitator yang memastikan bahwa proses Scrum dijalankan dengan benar. Ia memimpin pertemuan-pertemuan penting seperti sprint planning, daily stand-up, sprint review, dan retrospective. Selain itu, Scrum Master membantu tim mengatasi hambatan atau kendala yang mengganggu produktivitas serta membimbing tim agar tetap berpegang pada nilai dan prinsip Agile. Scrum Master juga menjadi penghubung antara tim pengembang dan stakeholder.
+
+3. WIP atau Work In Progress dalam Kanban adalah istilah yang mengacu pada jumlah pekerjaan yang sedang dalam proses penyelesaian. Dalam praktik Kanban, WIP digunakan sebagai batasan agar tim tidak menangani terlalu banyak pekerjaan sekaligus. Dengan membatasi WIP, tim dapat fokus menyelesaikan tugas yang sedang berjalan terlebih dahulu sebelum memulai yang baru, sehingga alur kerja menjadi lebih efisien dan waktu penyelesaian menjadi lebih cepat.
+
+4. Version control system (VCS) adalah sistem yang digunakan untuk mengelola perubahan kode sumber dalam proyek perangkat lunak. Terdapat dua jenis utama VCS, yaitu centralized version control system (CVCS) dan distributed version control system (DVCS). CVCS seperti Subversion (SVN) mengandalkan satu server pusat tempat semua perubahan disimpan. Sebaliknya, DVCS seperti Git memungkinkan setiap pengembang memiliki salinan lengkap dari seluruh repositori, sehingga mereka bisa bekerja secara lokal dan menyinkronkan perubahan saat diperlukan. DVCS lebih fleksibel dan tahan terhadap gangguan jaringan karena tidak tergantung penuh pada satu server.
