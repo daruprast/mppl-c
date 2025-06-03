@@ -1,0 +1,16 @@
+MPPL C
+
+Nama: Ryocera Purna Kurniawan
+NIM: 23106050086
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+- Metode agile unggul dalam hal fleksibilitas, responsif terdahap perubahan mendadak, memungkinkan adanya feedback dari client
+2. Apa tugas seorang scrum master dalam framework scrum
+- scrum master bertugas memfasilitasi scrum bagi tim yang lebih besar dengan memastikan kerangka kerja scrum diikuti. hal ini bertujuan supaya lingkungan kerja tetap kondusif
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+- Work in progress berarti pekerjaan sedang dilaksanakan, berfungsi sebagai penanda batas tugas yang dapat dilakukan satu tahapan demi menghindari penumpukan pekerjaaan, mengurangi multitasking, dan meningkatkan efisiensi
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+- Centralized Version Control Systems
+    Berisi satu repositori secara global, setiap pengguna perlu berkomitmen untuk mencerminkan perubahannya di repositori tersebut. Orang lain dapat melihat perubahan Anda dengan melakukan pembaruan.
+- Distributed Version Control Systems
+    setiap pengguna perlu berkomitmen untuk mencerminkan perubahannya di repositori tersebut. Orang lain dapat melihat perubahan dengan melakukan pembaruan.
