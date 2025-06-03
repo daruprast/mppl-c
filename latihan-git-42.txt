@@ -2,3 +2,35 @@ MPPL C
 
 Nama    : Ikhwan Tsabitul Azmi
 NIM     : 23106050042     
+
+1.  Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+2.  Apa tugas seorang scrum master dalam framework scrum
+3.  Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+4.  Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+
+Jawab :
+1.  Agile punya beberapa keunggulan dibanding metode lain seperti Waterfall. Salah satunya adalah fleksibel, 
+    jadi kalau ada perubahan kebutuhan dari klien di tengah jalan, Agile bisa langsung menyesuaikan. 
+    Selain itu, Agile juga lebih fokus ke kolaborasi tim dan komunikasi yang intens, jadi kerja timnya lebih hidup. 
+    Proyek juga dibagi jadi beberapa bagian kecil (iterasi), jadi hasilnya bisa dicek berkala dan lebih cepat dapet feedback. 
+    Intinya, Agile bikin proses pengembangan jadi lebih adaptif dan responsif terhadap perubahan.
+
+2.  Scrum Master itu dapat diartikan sebagai "penjaga proses" dalam tim Scrum. 
+    Tugas utamanya adalah membantu tim agar bekerja sesuai prinsip Scrum. 
+    Scrum master bertanggung jawab atas hal-hal seperti mencegah atau menyelesaikan hambatan yang bikin kerja tim terganggu, 
+    memastikan semua anggota tim mengerti perannya, dan jadi penghubung jika ada masalah antara tim sama pihak luar. 
+    Scrum Master juga memfasilitasi meeting seperti daily stand-up, sprint planning, dan retrospective.
+
+3.  WIP atau Work In Progress merupakan jumlah tugas atau pekerjaan yang sedang dikerjain dalam satu waktu. 
+    Di Kanban, WIP ini biasanya dibatasi supaya tim tidak mengerjakan terlalu banyak hal sekaligus. 
+    Tujuannya agar kerja lebih fokus, efisien, dan tidak numpuk di tengah jalan. 
+    Dengan mengontrol WIP, alur kerja jadi lebih lancar dan bisa lebih cepat selesai satu-satu.
+
+4.  Secara umum, ada dua jenis version control system (VCS) yang sering dipakai:
+    a. Centralized VCS (misalnya: Subversion/SVN): Semua file proyek dan histori versinya disimpan di satu server pusat. 
+    Kalau mau mengerjakan sesuatu, developer harus terhubung ke server tersebut. 
+    Kelemahannya, jika servernya mati, semua kerjaan bisa terhambat.
+
+    b. Distributed VCS (misalnya: Git): Setiap developer punya salinan penuh dari seluruh histori proyek. 
+    Jadi developer dapat kerja secara offline, setelah selesai developer dapat menyinkronkan (push/pull) ke server utama. 
+    Git merupakan salah satu VCS yang paling populer sekarang karena lebih aman dan fleksibel.
