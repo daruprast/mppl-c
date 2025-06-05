@@ -1,0 +1,37 @@
+Nama  : Aqib Khoiruzaman
+NIM : 23106050069
+MPPL C
+TUGAS
+1. Kelebihan Metode Agile dibanding Metode Pengembangan Lain
+- Iteratif dan Inkremental: Agile memecah proyek menjadi siklus kecil (sprint) sehingga hasil bisa dilihat secara bertahap.
+- Fleksibel terhadap perubahan: Perubahan kebutuhan bisa diakomodasi di tengah proyek.
+- Kolaborasi erat dengan klien: Klien terlibat aktif selama proses pengembangan.
+- Kualitas produk lebih terjamin: Karena ada testing di tiap iterasi/sprint.
+- Lebih cepat deliver value: Fitur yang sudah jadi bisa langsung digunakan pengguna.
+
+2. Tugas Seorang Scrum Master dalam Framework Scrum
+Scrum Master adalah fasilitator dalam tim Scrum dengan tanggung jawab sebagai berikut:
+- Membantu tim memahami dan menerapkan Scrum.
+- Menghilangkan hambatan (impediments) yang mengganggu kerja tim.
+- Melindungi tim dari gangguan eksternal.
+- Memastikan proses Scrum seperti daily stand-up, sprint planning, review, dan retrospective berjalan dengan benar.
+- Membantu Product Owner dan tim pengembang bekerja secara efektif.
+
+3. Pengertian WIP (Work In Progress) dalam Kanban
+WIP (Work In Progress) adalah jumlah pekerjaan atau tugas yang sedang dikerjakan dalam satu waktu.
+- Dalam Kanban, WIP limit digunakan untuk menghindari multitasking berlebihan dan memastikan tim fokus menyelesaikan pekerjaan yang ada sebelum memulai yang baru.
+- Tujuannya adalah meningkatkan efisiensi, aliran kerja (flow), dan kualitas hasil kerja.
+
+4. Jenis Version Control System (VCS) yang Digunakan dalam Pengembangan Perangkat Lunak
+Ada dua jenis utama Version Control System (VCS):
+
+a. Centralized VCS (CVCS):
+- Semua versi file disimpan di server pusat.
+- Contoh: Subversion (SVN), CVS
+- Kelemahan: Jika server pusat down, semua histori dan kontrol versi tidak bisa diakses.
+
+b. Distributed VCS (DVCS):
+- Setiap pengembang memiliki salinan lengkap repositori.
+- Lebih aman dan mendukung kolaborasi offline.
+- Contoh: Git, Mercurial
+- Git adalah DVCS paling populer dan digunakan di platform seperti GitHub, GitLab, Bitbucket.
