@@ -1,0 +1,17 @@
+1. Kelebihan Metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya:
+-Fleksibilitas: Agile memungkinkan perubahan kebutuhan selama siklus pengembangan.
+-Kolaborasi Tim: Agile mendorong komunikasi yang erat antara tim pengembang dan pemangku kepentingan.
+-Pengiriman Cepat: Agile menggunakan iterasi pendek sehingga fitur dapat dirilis lebih cepat.
+-Peningkatan Berkelanjutan: Agile memungkinkan evaluasi dan perbaikan berkelanjutan di setiap iterasi.
+2. Tugas seorang Scrum Master dalam framework Scrum:
+-Memastikan tim memahami dan mengikuti prinsip-prinsip Scrum.
+-Menghilangkan hambatan (impediments) yang menghalangi produktivitas tim.
+-Memfasilitasi acara Scrum seperti sprint planning, daily stand-up, sprint review, dan retrospective.
+-Membantu tim dan organisasi dalam mengadopsi Scrum.
+3. WIP (Work In Progress) di dalam Kanban:
+-WIP adalah jumlah pekerjaan yang sedang dikerjakan pada suatu waktu.
+-Membatasi WIP membantu tim fokus pada tugas yang sedang berjalan dan mengurangi multitasking.
+-Dengan membatasi WIP, tim dapat meningkatkan efisiensi dan mengidentifikasi hambatan lebih cepat.
+4. Jenis Version Control System (VCS) yang digunakan dalam pengembangan perangkat lunak:
+-Centralized Version Control System (CVCS): Semua versi disimpan di server pusat, contohnya Subversion (SVN).
+-Distributed Version Control System (DVCS): Setiap pengembang memiliki salinan lengkap dari repositori, contohnya Git dan Mercurial. DVCS lebih fleksibel dan mendukung pengembangan terdistribusi.
