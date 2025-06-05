@@ -1,3 +1,6 @@
+Arif Rahman 23106050050 mppl c
+
+
 1. Kelebihan Metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya:
 -Fleksibilitas: Agile memungkinkan perubahan kebutuhan selama siklus pengembangan.
 -Kolaborasi Tim: Agile mendorong komunikasi yang erat antara tim pengembang dan pemangku kepentingan.
