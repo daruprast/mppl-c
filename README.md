@@ -12,7 +12,10 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 5. **Push ke fork Anda**
 6. **Buat Pull Request (PR)** dari GitHub
 
-# Ini WM
-![Ini WM][wm]
+# Tugas
+1.	Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+2.	Apa tugas seorang scrum master dalam framework scrum
+3.	Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+4.	Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
 
-[wm]: https://teknohole.com/static/assets/images/Teknohole.png
+
