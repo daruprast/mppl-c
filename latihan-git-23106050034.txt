@@ -1,3 +1,32 @@
 MPPL C
 Nama : Mohammad Yoga Akbar Habibie
 NIM : 23106050034 
+
+1. Metode Agile memiliki sejumlah kelebihan dibandingkan metode pengembangan perangkat lunak tradisional seperti Waterfall, V-Model, atau metode incremental konvensional.
+- Agile memungkinkan perubahan kebutuhan bahkan di tahap akhir pengembangan.
+- Pengembangan dilakukan dalam siklus pendek (sprint/iteration) yang memungkinkan hasil produk dapat dievaluasi dan ditingkatkan secara berkala.
+- Pelanggan atau pengguna akhir terlibat secara aktif dalam setiap tahap, sehingga produk yang dikembangkan lebih sesuai dengan kebutuhan mereka.
+- Setiap iterasi menghasilkan bagian produk yang dapat diuji, memungkinkan deteksi kesalahan lebih awal dan perbaikan segera.
+- Karena pengujian dilakukan secara terus-menerus, kualitas produk lebih terjaga dan risiko kesalahan besar di akhir proyek berkurang.
+- Agile mendorong kerja sama tim, komunikasi yang intens, serta otonomi anggota tim, yang dapat meningkatkan motivasi dan efisiensi kerja.
+
+2. Dalam framework Scrum, seorang Scrum Master memiliki peran penting sebagai fasilitator dan pelindung proses.
+Scrum Master memastikan prinsip, praktik, dan aturan Scrum dijalankan dengan benar.
+Scrum Master mendidik tim, Product Owner, dan organisasi tentang Scrum dan Agile.
+Scrum Master membantu Product Owner dalam mengelola dan menyusun Product Backlog.
+Scrum Master memfasilitasi komunikasi antara Product Owner dan tim pengembang.
+
+3. WIP (Work In Progress) dalam Kanban merujuk pada jumlah pekerjaan atau tugas yang sedang dikerjakan pada suatu waktu tertentu dalam proses pengembangan atau alur kerja.
+
+4. Local Version Control System (VCS Lokal)
+Menyimpan versi file secara lokal di komputer pengembang.
+Umumnya menggunakan database sederhana untuk melacak perubahan file.
+
+Centralized Version Control System (CVCS)
+Semua versi kode disimpan di satu server pusat.
+Developer mengambil dan mengunggah kode ke server tersebut.
+Cocok untuk tim yang bekerja dalam jaringan terpusat.
+
+Distributed Version Control System (DVCS)
+Setiap pengembang memiliki salinan lengkap dari seluruh riwayat versi kode (termasuk commit, branch, dll).
+Tidak perlu koneksi internet untuk melakukan sebagian besar operasi.
