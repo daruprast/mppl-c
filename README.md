@@ -1,3 +1,6 @@
+nama :ghina dersa
+nim  : 23106050004
+
 # MPPL Kelas C
 Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Perangkat Lunak Kelas C
 
@@ -17,5 +20,6 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 2.	Apa tugas seorang scrum master dalam framework scrum
 3.	Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
 4.	Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+
 
 
