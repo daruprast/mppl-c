@@ -1,0 +1,40 @@
+MPPL C
+
+Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya ?
+jawab :
+- memilki fleksibilitas yang tinggi
+- memiliki iterasi yang cepat
+- memiliki kolaborasi yang baik antara tim pengembang dan yang memiliki kepentingan
+- memiliki fokus pada kepuasan pengguna
+- memiliki kemampuan untuk beradaptasi dengan perubahan kebutuhan
+- memiliki pengiriman perangkat lunak yang lebih cepat
+- memiliki pengurangan risiko yang lebih baik
+- memiliki peningkatan kualitas perangkat lunak
+- memiliki peningkatan produktivitas tim
+- memiliki peningkatan transparansi dalam proses pengembangan
+
+Apa tugas seorang scrum master dalam framework scrum?
+jawab :
+- Memfasilitasi pertemuan harian (daily stand-up)
+- Menghapus hambatan (impediments) yang menghalangi tim
+- Membantu tim dalam memahami dan menerapkan prinsip-prinsip Agile
+- Melatih tim dalam praktik Scrum
+- Menjaga fokus tim pada tujuan sprint
+- Berkomunikasi dengan pemangku kepentingan (stakeholders)
+- Memastikan tim mengikuti proses Scrum
+- Mengelola backlog produk
+- Mendorong kolaborasi dan komunikasi dalam tim
+- Memastikan tim memiliki sumber daya yang diperlukan
+
+Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+jawab :
+WIP (Work In Progress) dalam Kanban adalah batasan jumlah pekerjaan yang sedang dikerjakan pada suatu waktu tertentu. Tujuan dari WIP adalah untuk mengurangi multitasking, meningkatkan fokus, dan memastikan bahwa tim tidak mengambil terlalu banyak pekerjaan sekaligus. Dengan menetapkan batas WIP, tim dapat lebih mudah mengidentifikasi hambatan, meningkatkan alur kerja, dan menyelesaikan tugas dengan lebih efisien. Batas WIP membantu menjaga keseimbangan antara kapasitas tim dan jumlah pekerjaan yang sedang dikerjakan, sehingga meningkatkan produktivitas dan kualitas hasil kerja.
+
+Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak?
+jawab :
+1. local version control system
+   - Sistem ini menyimpan versi lokal dari file yang dikerjakan. Setiap perubahan disimpan dalam sistem lokal, sehingga pengguna dapat mengakses versi sebelumnya dari file tersebut. Contoh: RCS (Revision Control System).
+2. centralized version control system
+    - Sistem ini menyimpan versi file di server pusat. Pengguna dapat mengakses dan mengubah file dari server tersebut. Setiap perubahan disimpan di server, sehingga memungkinkan kolaborasi antar pengguna. Contoh: CVS (Concurrent Versions System), Subversion (SVN).
+3. distributed version control system
+    - Sistem ini memungkinkan setiap pengguna memiliki salinan lengkap dari repositori. Setiap pengguna dapat membuat perubahan secara lokal dan kemudian menggabungkannya dengan repositori pusat. Ini memungkinkan kolaborasi yang lebih fleksibel dan memungkinkan pengguna untuk bekerja secara offline. Contoh: Git, Mercurial.
