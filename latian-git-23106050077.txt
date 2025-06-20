@@ -2,3 +2,36 @@ MPPL C
 
 Nama : Ahmad Zidni Hidayat
 NIM : 23106050077
+
+Jawaban Tugas
+
+1.Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+
+- Metode Agile sangat Fleksibel terhadap perubahan kebutuhan jika dibandingkan dengan metode Waterfall yang bersifat sequential dan sulit beradaptasi setelah fase perencanaan selesai.
+
+- Dalam Agile, Kolaborasi tim dan keterlibatan stakeholder lebih tinggi jika dibandingkan dengan metode Spiral yang lebih menitikberatkan pada manajemen risiko teknis.
+
+- Dalam metode Agile berfokus pada tugas-tugas kecil yang dapat diselesaikan cepat, tidak seperti metode tradisional yang cenderung membagi proyek dalam fase besar dan panjang.
+
+
+2.Apa tugas seorang scrum master dalam framework scrum
+
+Tugas seorang scrum master adalah memfasilitasi implementasi Scrum dalam tim, terutama dalam tim yang lebih besar yang memastikan bahwa framework scrum dijalankan secara konsisten dan benar. Scrum master berkomitmen pada metodologi Scrum, prinsip-prinsip Agile, dan praktik terbaik dalam pengembangan perangkat lunak. Namun, selain menjaga kepatuhan terhadap proses, Scrum Master juga harus bersikap fleksibel dan terbuka terhadap peluang perbaikan yang dapat meningkatkan efektivitas dan efisiensi alur kerja tim. Perannya mencakup membantu tim menghilangkan hambatan, membina kolaborasi, serta mendorong budaya perbaikan berkelanjutan demi tercapainya tujuan sprint dan peningkatan kualitas produk secara keseluruhan.
+
+
+3.Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+
+WIP (Work In Progress) di dalam Kanban adalah jumlah pekerjaan atau tugas yang sedang dikerjakan dalam suatu waktu tertentu. Konsep ini berguna untuk membantu tim dalam menghindari kelebihan beban kerja yang dapat menurunkan produktivitas dan kualitas hasil. Dengan menetapkan batasan WIP pada setiap tahap dalam alur kerja, tim didorong untuk menyelesaikan tugas yang sedang dikerjakan sebelum memulai yang baru.
+
+
+4.Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+
+a. Local Version Control System
+Local Version Control System adalah sistem version control paling sederhana yang hanya berjalan di komputer lokal pengguna, seperti laptop atau PC pribadi. Dalam sistem ini, seluruh riwayat perubahan file disimpan secara lokal, tanpa adanya keterlibatan server atau komputer lain. Setiap kali pengguna melakukan perubahan pada file, sistem ini akan mencatat versi baru secara lokal. Meskipun mudah digunakan dan tidak memerlukan koneksi internet atau server eksternal, kelemahan utamanya adalah risiko kehilangan data secara total jika komputer rusak, karena tidak ada salinan di tempat lain. Contoh penerapannya bisa seperti melakukan copy manual file setiap kali terjadi perubahan.
+
+
+b. Centralized Version Control System
+Centralized Version Control System adalah sistem version control yang menyimpan semua riwayat versi file di sebuah server pusat. Setiap pengguna hanya memiliki salinan versi terbaru dari file di komputer lokal mereka, sementara versi-versi sebelumnya berada di server. Sistem ini sangat berguna dalam kolaborasi tim karena memungkinkan banyak pengguna mengakses dan memperbarui file yang sama secara terpusat. Namun, sistem ini sangat bergantung pada koneksi ke server. Jika server mengalami gangguan atau pengguna sedang offline, maka mereka tidak dapat mengakses riwayat versi atau melakukan perubahan. Contoh dari CVC yang populer di masa lalu adalah Subversion (SVN).
+
+c. Distributed version control System
+Distributed Version Control System adalah sistem version control yang menyimpan salinan lengkap dari seluruh riwayat perubahan file di setiap komputer pengguna, bukan hanya di server. Ketika pengguna melakukan clone dari sebuah repositori, semua data termasuk versi-versi lama akan didownload secara penuh ke komputer lokal mereka. Keunggulan utama DVC adalah pengguna tetap bisa bekerja secara offline dan tetap dapat mengakses seluruh riwayat file. Selain itu, server tidak menjadi satu-satunya titik kegagalan karena setiap pengguna menyimpan data lengkap. Namun, tantangannya adalah potensi konflik saat menyinkronkan perubahan antar pengguna. Contoh paling populer dari sistem DVC saat ini adalah Git.
